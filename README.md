@@ -13,6 +13,7 @@ Simple script for Spotify users.
 
 ## Requirements
 1. BeautifulSoup4
+2. pip install lxml
 
 ## Example
 ```Shell
